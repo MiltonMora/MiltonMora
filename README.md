@@ -5,6 +5,7 @@ Como puedes ver mi nombre es **Milton Mora** dentro de mis conocimientos, habili
 • 🐘 backend PHP Symfony/Laravel
 
 • ⚛ Frontend React/Svelte
+• ⚛ Frontend NEXTJs
 
 • Javascript
 
