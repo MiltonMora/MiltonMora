@@ -17,7 +17,7 @@ Como puedes ver mi nombre es **Milton Mora** dentro de mis conocimientos, habili
 
 • :large_blue_diamond: Programación hexagonal
 
-• :monkey: DDD y SOLID
+• :monkey: SOLID
 
 Si deseas conocer más acerca de mí, mi experiencia laboral, las empresas y proyectos en los que he trabajado, puedes ir a mi página de [Linkedin :link:](https://www.linkedin.com/in/milton-roberto-mora-bastidas/).
 
